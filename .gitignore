@@ -1,0 +1,12 @@
+# Generated python files
+*.pyc
+__pycache__
+
+# IDE files
+.idea
+
+# Venv files
+informant
+
+# System files
+*.swp
